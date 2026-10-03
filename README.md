@@ -126,7 +126,7 @@ flowchart TD
 *Full-Stack Engineer & Founder*  
 - 🌐 **Live Platform:** [https://plotbook.webforge.me/](https://plotbook.webforge.me/)
 - 💼 **Personal Portfolio:** [https://www.webforge.me](https://www.webforge.me)
-- 🔗 **LinkedIn:** [linkedin.com/in/aryanbansal](https://www.linkedin.com/in/aryanbansal)
+- 🔗 **LinkedIn:** [linkedin.com/in/aryan-bansal-b29b69370](https://www.linkedin.com/in/aryan-bansal-b29b69370/)
 - ✉️ **Contact:** `aryan24120@iiitd.ac.in` / `aryanbanc@gmail.com`
 
 <div align="center">
